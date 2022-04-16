@@ -1,3 +1,7 @@
 Hello Owner
 Hi Collaborator
+<<<<<<< HEAD
 I added a line me as the owner.
+=======
+I added this line me the collaborator
+>>>>>>> 86cd4681351d39c9caa7fe3ead7155cb33ed52a2
